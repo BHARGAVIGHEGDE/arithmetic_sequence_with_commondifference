@@ -1,7 +1,7 @@
-/*given three integers 'A' denoting the first term of an arithmatic sequence 'C' denoting the common difference  of an arithmatic sequence and an integer 'B' .you need to tell whether 'B' exists in the arithmetic expression or not.
+/*given three integers 'A' denoting the first term of an arithmatic sequence 'C' denoting the common difference  of an arithmetic sequence and an integer 'B' .you need to tell whether 'B' exists in the arithmetic expression or not.
 
 
-the arithmatic sequence is:a+c*n=b or it should satisfy the condition (b-a)%c
+the arithmetic sequence is:a+c*n=b or it should satisfy the condition (b-a)%c
 example 1:
 input:A=1,B=3,C=2
 output:1
